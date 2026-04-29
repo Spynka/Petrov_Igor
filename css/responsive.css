@@ -246,10 +246,7 @@
 
 /* Адаптация для мобильных устройств и планшетов */
 @media (max-width: 800px) {
-    body {
-        padding-top: 70px;
-    }
-    
+
     .container {
         padding: 0 4vw;
     }
@@ -308,9 +305,7 @@
 
 /* Адаптация для мобильных телефонов */
 @media (max-width: 700px) {
-    body {
-        padding-top: 65px;
-    }
+
     
     .nav-links {
         display: none;
@@ -426,9 +421,7 @@
 
 /* Адаптация для очень маленьких экранов */
 @media (max-width: 480px) {
-    body {
-        padding-top: 60px;
-    }
+
     
     .container {
         padding: 0 1.5rem;
